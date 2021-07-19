@@ -1,4 +1,5 @@
 ### Hi there 👋
+#i'm 감자!
 
 <!--
 **ddwOutlier/ddwOutlier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
