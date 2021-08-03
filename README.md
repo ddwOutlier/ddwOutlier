@@ -1,5 +1,7 @@
-### Hi there 👋
-#i'm 감자!
+### 말하는 감자들의 모임
+#outlier
+
+📫 insta : @ddw_outlier
 
 <!--
 **ddwOutlier/ddwOutlier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
